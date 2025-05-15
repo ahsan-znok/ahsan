@@ -1,7 +1,9 @@
 import streamlit as st
 
 st.title("Selamat datang di website informatika")
-st.image("IMG_8747.jpeg, width")
+st.image("views/IMG_8747.jpeg", width=200)
+st.write("\n")
+st.subheader("Muhammad 'Mister' Ahsan")
 st.write(
-    "Latihan membuat website melalui Github dan Streamlit dengan menggunakan bahasa Python."
+    "Mari latihan membuat website melalui Github dan Streamlit bersama Mister Ahsan"
 )
